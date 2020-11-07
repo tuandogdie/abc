@@ -1,0 +1,32 @@
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.exe.config
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.exe
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.pdb
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.csprojResolveAssemblyReference.cache
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.Form1.resources
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.Properties.Resources.resources
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.csproj.GenerateResource.Cache
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.exe
+C:\Users\Tuandogdie\Desktop\PTUD\project\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.pdb
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.csprojAssemblyReference.cache
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmManHinhChinh.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmQuanLyKhachHang.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.csproj.GenerateResource.cache
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.exe
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.pdb
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmQuanLyHoaDon.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmQuanLyNhaCungCap.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmQuanLyNhanVien.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmQuanLyXe.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmThongKe.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmDangNhap.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.exe.config
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.exe
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\QuanLyCuaHangXeMay.pdb
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\EntityFramework.dll
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\EntityFramework.SqlServer.dll
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\EntityFramework.xml
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\bin\Debug\EntityFramework.SqlServer.xml
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.Properties.Resources.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.csproj.CopyComplete
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmThongTinTaiKhoan.resources
+D:\Phat Trien Ung Dung\code\QuanLyCuaHangXeMay\QuanLyCuaHangXeMay\obj\Debug\QuanLyCuaHangXeMay.frmChiTietHD.resources
